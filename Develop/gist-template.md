@@ -1,6 +1,6 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+A regular expression is a sequence of characters that specifies a search pattern in text. Usually such patterns are used by string-searching algorithms for "find" or "find and replace" operations on strings, or for input validation.[Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 
 ## Summary
 
